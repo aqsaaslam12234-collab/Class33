@@ -13,7 +13,8 @@ function App() {
     <>
      <Header />
       <HeroSection />
-      <Pricing  />
+      <Pricing />
+      
     </>
   )
 }
