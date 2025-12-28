@@ -6,6 +6,7 @@ import Pricing from './components/Pricing'
 
 
 
+
 function App() {
 
 
@@ -14,6 +15,7 @@ function App() {
      <Header />
       <HeroSection />
       <Pricing />
+      
       
     </>
   )
