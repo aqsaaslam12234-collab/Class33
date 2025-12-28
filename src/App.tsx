@@ -5,6 +5,7 @@ import HeroSection from './components/HeroSection'
 import Pricing from './components/Pricing'
 
 
+
 function App() {
 
 
@@ -12,7 +13,7 @@ function App() {
     <>
      <Header />
       <HeroSection />
-      <Pricing />
+      <Pricing  />
     </>
   )
 }
